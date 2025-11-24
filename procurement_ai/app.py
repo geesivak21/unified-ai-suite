@@ -6,7 +6,7 @@ def run():
     from io import BytesIO
     from openai import AzureOpenAI
     from rapidfuzz import process, fuzz
-    from config import (
+    from procurement_ai.config import (
         azure_api_key,
         azure_api_version,
         azure_endpoint,
@@ -19,7 +19,7 @@ def run():
     from langchain_openai import AzureChatOpenAI
     from streamlit_mic_recorder import mic_recorder
     from streamlit_mic_recorder import mic_recorder
-    from transcript import get_transcripts
+    from procurement_ai.transcript import get_transcripts
 
     # ==============================
     # 🔧 Initialize Azure OpenAI Client
