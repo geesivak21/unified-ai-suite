@@ -1,56 +1,5 @@
 # --- Streamlit & Web Frameworks ---
 streamlit
-fastapi[standard]
 
-# --- Core Python / System ---
-ipykernel
-python-dotenv
-dotenv
-
-# --- LangChain & AI Core ---
-langchain
-langchain-community
-langchain-core
-langchain-google-community[gmail]
-langchain-googledrive
-langchain-groq
-langchain-openai
-langchain-text-splitters
-langgraph
-langgraph-checkpoint
-langgraph-prebuilt
-langgraph-sdk
-langsmith
-
-# --- Vector & Similarity Search ---
-faiss-cpu
-rapidfuzz
-
-# --- Document Processing ---
-pypdf
-pdfplumber
-azure-ai-documentintelligence
-
-# --- Audio & Speech (TTS/STT) ---
-pyttsx3
-gTTS
-edge-tts
-streamlit-TTS
-streamlit-mic-recorder
-
-# --- Databases ---
-psycopg2-binary
-openpyxl
-xlsxwriter
-
-# --- Misc Utilities ---
-openai
-numpy
-pandas
-scikit-learn
-scipy
-matplotlib
-seaborn
-plotly[express]
 
 
