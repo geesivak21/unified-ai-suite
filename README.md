@@ -85,12 +85,6 @@ Use the **sidebar navigation** to switch between:
 
 ---
 
-## 🪪 License
-
-MIT License © 2025
-
----
-
 ### 👨‍💻 Author
 
 **G. Siva Kumar**
