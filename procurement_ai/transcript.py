@@ -1,6 +1,6 @@
 # Import the necessary libraries 
 from openai import AzureOpenAI
-from config import (openai_api_key, openai_api_version, 
+from procurement_ai.config import (openai_api_key, openai_api_version, 
                     openai_deployment_name, openai_endpoint)
 
 # Instantiate the Azure OpenAI client
