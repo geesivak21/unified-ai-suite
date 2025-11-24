@@ -8,7 +8,7 @@ python-dotenv
 dotenv
 
 # --- LangChain & AI Core ---
-langchain==0.3.27
+langchain
 langchain-community==0.3.31
 langchain-core==0.3.79
 langchain-google-community[gmail]==2.0.10
@@ -52,3 +52,4 @@ scipy
 matplotlib
 seaborn
 plotly[express]
+
